@@ -1,0 +1,82 @@
+body {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.on {
+  background-color: #fff
+}
+
+.off {
+  background-color: #000
+}
+
+.pixel {
+  width: 10px;
+  height: 10px;
+  border: 1px;
+}
+
+#currentColor{
+
+}
+
+.swatch{
+  width: 20px;
+  height: 20px;
+  margin: 10px;
+}
+
+.white {
+    background-color: white;
+}
+
+.green {
+    background-color: green;
+}
+.dark-green {
+    background-color: #6cc053;
+}
+.light-green {
+    background-color: #88f068;
+}
+.light-blue {
+    background-color: #2f56AD;
+}
+.dark-blue {
+    background-color: #437cf8;
+}
+
+.brown {
+  background-color: #6e4638;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+.yellow {
+  background-color: #FFEF65;
+}
+
+.tan {
+  background-color: #F7CF89;
+}
+
+.container {
+  background-color: #ccc;
+}
+
+#port{
+  margin: 10px;
+  /* padding: 10px; */
+}
+
+.color {
+  background-color: white;
+}
